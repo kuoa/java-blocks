@@ -2,8 +2,10 @@
 My second attempt at a game project. Developing a puzzle matching game in **Java** using **AWT**.
 
 
+
 ### Download .jar
-A .jar is included in this repository.
+[here](https://github.com/kuoa/java-blocks/releases/download/1.0/blocks.jar)
+
 
 ### Features
 * 3 difficulty levels
